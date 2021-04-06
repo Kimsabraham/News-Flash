@@ -20,11 +20,11 @@ Please leave the code cleaner then you found it, make sure all links are still f
 
 
 ## Technologies
-HTML
-CSS
-javaScript
-API rapidcatcher 
-Moment
+HTML,
+CSS,
+javaScript,
+API rapidcatcher, 
+Moment,
 
 
 ## Credit
