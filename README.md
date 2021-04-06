@@ -18,6 +18,15 @@ screenshots of final product:
 ## Contributing
 Please leave the code cleaner then you found it, make sure all links are still fuctional, other then that please feel free to help improve the website and add features.
 
+
+## Technologies
+HTML
+CSS
+javaScript
+API rapidcatcher 
+Moment
+
+
 ## Credit
 Jim Harris
 https://github.com/arcangyl1963/
